@@ -1,10 +1,10 @@
-module github.com/libp2p/go-libp2p-testing
+module github.com/MultiverseChronicles/go-libp2p-testing
 
 go 1.23
 
 require (
 	github.com/ipfs/go-log/v2 v2.5.1
-	github.com/libp2p/go-libp2p v0.22.0
+	github.com/MultiverseChronicles/go-libp2p v0.22.0
 	github.com/multiformats/go-multiaddr v0.6.0
 )
 
@@ -13,8 +13,8 @@ require (
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/ipfs/go-cid v0.2.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.1.0 // indirect
-	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
-	github.com/libp2p/go-openssl v0.1.0 // indirect
+	github.com/MultiverseChronicles/go-buffer-pool v0.1.0 // indirect
+	github.com/MultiverseChronicles/go-openssl v0.1.0 // indirect
 	github.com/mattn/go-isatty v0.0.16 // indirect
 	github.com/mattn/go-pointer v0.0.1 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
